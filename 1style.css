@@ -1,0 +1,40 @@
+#cool{
+    background-color: aqua
+}
+option{
+    background-color: gold;
+}
+select:hover{
+background-color: rgb(245, 77, 11);
+}
+option:hover{
+ height: 50px; width: 50px;   
+}
+img:hover{
+    scale: 5;
+}
+h3{
+background-color: aqua;
+}
+.Cat{
+background-color: gold;
+}
+#cod{
+    color: red;
+}
+table{
+margin: 50px auto;
+font-size: 50px;
+border: 4px solid rgb(9, 176, 253);
+}
+td{    
+    border: 2px solid rgb(4, 214, 241);
+    width: 100px;   
+    text-align: center;
+    transition: 1s;
+}
+td:hover{
+background-color: gold;
+color: rgb(0, 255, 21);
+transform: rotate(360deg);
+}
